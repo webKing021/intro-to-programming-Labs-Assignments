@@ -46,17 +46,7 @@ The purpose of this repository is to:
 | Lab | Status |
 |------|--------|
 | Lab 1 | Completed |
-| Lab 2 | Pending |
-| Lab 3 | Pending |
-| Lab 4 | Pending |
-
-### Assignments
-
-| Assignment | Status |
-|------------|--------|
-| Assignment 1 | In Progress |
-| Assignment 2 | Pending |
-| Assignment 3 | Pending |
+| Lab 2 | Completed |
 
 ---
 
@@ -66,8 +56,6 @@ This repository may contain programs written in:
 
 - C++
 - C
-- Python (future coursework)
-- Other languages introduced during the course
 
 ---
 
